@@ -7,7 +7,7 @@ Anyone can unlock above-market USDT stable returns and an unlimited stream of to
 
 For questions about interacting with Goose, please visit <a href="https://t.me/goldengooseprotocol">our Telegram server</a>.
 
-For security concerns, please visit <a href="support@goose.farm">our email</a>.
+For security concerns, please visit email support@goose.farm.
 
 For security audit, please visit <a href="https://www.goose.farm/CERTIK_Golden_Goose_Report.pdf">our audit</a>.
 
