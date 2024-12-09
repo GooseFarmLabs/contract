@@ -25,7 +25,7 @@ const config: HardhatUserConfig = {
     opbnb: {
       url: "https://opbnb-mainnet-rpc.bnbchain.org",
       chainId: 204,
-      accounts: ['cade06d3f5ef251f7361702ecaafe1a9e4871cd4102abd431797882bd67bf7c9']
+      accounts: ['{{PRIVATE_KEY}}']
     }
   },
   etherscan: {
